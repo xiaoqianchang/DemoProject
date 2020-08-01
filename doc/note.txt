@@ -1,8 +1,12 @@
+学习网站：
+https://scikit-learn.org/stable/
+http://archive.ics.uci.edu/ml/index.php
+
 数据存储格式
 1. positional arguments
 2. *args Non-keyword arguments（可变参数）---tuple(x,x,x)
 3. **kwargs keyword arguments   ---   dict{key.value}
-4. ＊, keyword only arguments
+4. ＊, keyword only arguments   ---   list
 
 
 
