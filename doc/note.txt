@@ -1,0 +1,15 @@
+数据存储格式
+1. positional arguments
+2. *args Non-keyword arguments（可变参数）---tuple(x,x,x)
+3. **kwargs keyword arguments   ---   dict{key.value}
+4. ＊, keyword only arguments
+
+
+
+python 组件库
+网站： https://pypi.org/
+
+安装 mysql
+pip install mysql-connector-python
+bash: pip: command not found            （如果出现该问题，则用如下命令）
+python -m pip install mysql-connector-python
