@@ -1,6 +1,14 @@
 学习网站：
 https://scikit-learn.org/stable/
 http://archive.ics.uci.edu/ml/index.php
+学习英语的网站
+https://www.ted.com/
+
+学习框架
+1. Python Fundamental Technologies (Python程序设计基础，Python核心编程)
+2. Framework （Python框架开发，网络爬虫技术框架）
+3. Data Analysis (Python预处理与分析)
+4. Machine Learning (Python数据挖掘算法分析与应用综合案例)
 
 数据存储格式
 1. positional arguments
@@ -8,12 +16,38 @@ http://archive.ics.uci.edu/ml/index.php
 3. **kwargs keyword arguments   ---   dict{key.value}
 4. ＊, keyword only arguments   ---   list
 
-
+CRUD 数据方式
+Create 创建
+Retrieve 获取
+Update 更新
+Delete 删除
 
 python 组件库
 网站： https://pypi.org/
 
 安装 mysql
+root 密码
+xc920722
+
+进入mysql
+mysql -u root -p
+
 pip install mysql-connector-python
+正常情况下安装成功输出如下信息
+Installing collected packages: protobuf, mysql-connector-python
+Successfully installed mysql-connector-python-8.0.21 protobuf-3.12.4
+
 bash: pip: command not found            （如果出现该问题，则用如下命令）
 python -m pip install mysql-connector-python
+
+web网站通讯，实现增删改查数据库需安装如下：
+pip install aiohttp
+pip install jinja2
+
+快速开放web的框架
+django https://www.djangoproject.com/
+
+
+爬虫框架
+Scrapy https://scrapy.org/
+mongodb https://www.mongodb.com/
