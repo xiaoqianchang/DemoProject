@@ -46,8 +46,16 @@ pip install jinja2
 
 快速开放web的框架
 django https://www.djangoproject.com/
+1. pip install Django==3.1     安装 Django 最新3.1版本
 
 
 爬虫框架
 Scrapy https://scrapy.org/
 mongodb https://www.mongodb.com/
+
+
+
+学习安排
+20200815
+1. Python 核心编程
+2. Django 框架学习
